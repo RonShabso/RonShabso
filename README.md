@@ -1,6 +1,6 @@
 @RonShabso - 
 - Student at Ort Braude College, Karmiel
-- Senior ( P.A ) Software Engineer
+- Senior Practical Software Engineer
 - Photographer
 
 
